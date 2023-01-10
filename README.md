@@ -1,7 +1,20 @@
-# Password
-A opensource password generator
-### You can find it here:
+
+
+<div align="center">
+  
+  # Password Generator 🌾
+  <sup2> An opensource password generator </sup2>
+  </div>
+  
+  ## Info:
+**THERE ARE NO PLANS FOR THIS TO GET UPDATED**
+  
+## Website/Demo
 https://gabsedits.github.io/password
 
 
-#### THERE ARE NO PLANS FOR THIS TO GET UPDATED
+
+<div align="center">
+  <sup> Thanks for checking out my project 👋</sup>
+</div>
+
