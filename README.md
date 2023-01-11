@@ -6,7 +6,7 @@
   <sup2> An opensource password generator </sup2>
   </div>
   
-  ## Info:
+  ## Note
 **THERE ARE NO PLANS FOR THIS TO GET UPDATED**
   
 ## Website/Demo
